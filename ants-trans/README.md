@@ -14,7 +14,7 @@
 
 | 章节                                                         |     进度     |
 | :----------------------------------------------------------- | :----------: |
-| 1. [The Importance of Ants](https://gallanordleaf.github.io/ants-trans/C1.md) | 翻译中...... |
+| 1. [The Importance of Ants](https://gallanordleaf.github.io/ants-trans/C1) | 翻译中...... |
 | 2. Classification and Origins                                |              |
 | 3. The Colony Life Cycle                                     |              |
 | 4. Altruism and the Origin of the Worker Caste               |              |
