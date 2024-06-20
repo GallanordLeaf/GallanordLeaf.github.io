@@ -1,8 +1,8 @@
 <h1>
     <center>The Ants</center>
 </h1>
-<center>Edward O.Wilson and Bert Hölldoblr</center>
-<center>献给下一代的蚁学家</center>
+<center><h3>Edward O.Wilson and Bert Hölldoblr</h3></center>
+<center><h3>献给下一代的蚁学家</h3></center>
 
 ## 中文翻译计划
 
